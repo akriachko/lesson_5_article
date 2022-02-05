@@ -1,0 +1,53 @@
+/* &display=swap */
+@import "null.css";
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+/* ================================================================ */
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.container {
+	margin: 0 auto;
+	width: 810px;
+}
+
+.footer {
+	background-color: rgb(41, 55, 182);
+}
+
+.navi {
+	margin: 0px 0px 0px 40px;
+	color: rgb(255, 255, 255);
+}
+
+.text-nav {
+	text-transform: uppercase;
+}
+
+h1 {
+	margin: 20px 0px 0px 40px;
+	font-size: 30px;
+	font-weight: 900;
+	fon
+}
+
+.text-p {
+	margin: 20px 0px 0px 40px;
+}
+
+.image {
+	margin: 40px 0px 0px 40px;
+}
+
+.image-2 {
+	margin: 40px 0px 0px 80px;
+}
+
+.mouse-img {
+	margin: 20px 900px 0px 40px;
+}
